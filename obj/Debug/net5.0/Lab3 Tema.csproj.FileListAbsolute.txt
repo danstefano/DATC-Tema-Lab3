@@ -1,0 +1,25 @@
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\Lab3 Tema.csproj.AssemblyReference.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\Lab3 Tema.GeneratedMSBuildEditorConfig.editorconfig
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\Lab3 Tema.AssemblyInfoInputs.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\Lab3 Tema.AssemblyInfo.cs
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\Lab3 Tema.csproj.CoreCompileInputs.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Lab3 Tema.exe
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Lab3 Tema.deps.json
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Lab3 Tema.runtimeconfig.json
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Lab3 Tema.runtimeconfig.dev.json
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Lab3 Tema.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\ref\Lab3 Tema.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Lab3 Tema.pdb
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Google.Apis.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\System.Web.Http.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\System.Web.Http.SelfHost.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\Lab3 Tema.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\ref\Lab3 Tema.dll
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\Lab3 Tema.pdb
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab3 Tema\obj\Debug\net5.0\Lab3 Tema.genruntimeconfig.cache
